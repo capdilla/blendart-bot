@@ -1,0 +1,6 @@
+cookies
+temp
+node_modules
+*.png
+!readme/*
+.env
